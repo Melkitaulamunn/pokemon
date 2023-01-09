@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+body{
+    font-family: 'Sniglet', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423);
+}
